@@ -1,0 +1,10 @@
+d:\proj\Win8water\Win8water\bin\Debug\Win8water.exe.config
+d:\proj\Win8water\Win8water\bin\Debug\Win8water.exe
+d:\proj\Win8water\Win8water\bin\Debug\Win8water.pdb
+d:\proj\Win8water\Win8water\bin\Debug\Win8water.xml
+d:\proj\Win8water\Win8water\obj\Debug\Win8water.Form1.resources
+d:\proj\Win8water\Win8water\obj\Debug\Win8water.Resources.resources
+d:\proj\Win8water\Win8water\obj\Debug\Win8water.vbproj.GenerateResource.Cache
+d:\proj\Win8water\Win8water\obj\Debug\Win8water.exe
+d:\proj\Win8water\Win8water\obj\Debug\Win8water.xml
+d:\proj\Win8water\Win8water\obj\Debug\Win8water.pdb
